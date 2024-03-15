@@ -1,0 +1,8 @@
+top
+htop
+free -m
+ping -a
+df -h
+docker ps -a
+ping -c  marvinletgo.com
+kill /PID 5852 /F

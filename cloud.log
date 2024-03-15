@@ -1,0 +1,2 @@
+route53 -> Certificate Manager -> API Gateway -> Lambda -> Load balancer -> target grop ->
+ssh key -> Security group -> S3 -> ec2 -> ECR -> EKS 
