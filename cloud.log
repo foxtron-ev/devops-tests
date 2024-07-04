@@ -1,0 +1,4 @@
+
+1. web -> s3, cloudfront, elb, shield, WAF, accelerator, route53
+2. application -> eks, ec2, ecs, lambda, sqs, sns, sms
+3. database -> rds

@@ -1,0 +1,17 @@
+top
+
+ps aux
+
+htop
+
+iostat
+
+free -mh
+
+df -TH
+
+mtr -n
+
+kill -2 pid
+
+ls /var/log/dmesg
